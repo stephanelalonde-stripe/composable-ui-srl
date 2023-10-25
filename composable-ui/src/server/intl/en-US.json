@@ -148,8 +148,9 @@
   "checkout.payment.paymentMethodSection.title": "Payment Method",
   "checkout.payment.stripe.loadingError": "Error loading Stripe",
   "checkout.payment.stripe.loadingErrorTryAgainButton": "Try again",
-  "checkout.paymentSection.offlinePayment": "Pay on Delivery (Offline)",
   "checkout.paymentSection.stripe.paymentMethodTitle": "Stripe",
+  "checkout.paymentSection.offlinePayment": "Pay on Delivery (Offline)",
+
 
   "checkout.review.paymentSection.title": "Payment",
 
